@@ -1,0 +1,3 @@
+Adicionar um link simbólico para cada um de seus arquivos em seu home.
+
+ln -s local_do_arquivo local_do_link
