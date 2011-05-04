@@ -118,11 +118,8 @@ alias claer='clear'
 alias exir='exit'
 alias exi='exit'
 
-#Reboot e Halt
+#Reboot
 alias reboot='sudo reboot'
-
-#rm pedindo confirmação
-alias rm='rm -iv'
 
 #remove .pyc
 alias limpyc='find ./ -name "*.pyc" | xargs rm -v'
